@@ -1,0 +1,21 @@
+
+
+Use the below link to download eclipse. 
+
+copy  paste the link in the browser and download the file for eclipse
+
+https://drive.google.com/file/d/1p5yvebMdEwv3mMWQuLCpBFEtxjwJ0eJQ/view?usp=share_link
+
+
+Use the below link to download java 19. 
+
+copy  paste the link in the browser and download the file for java 19
+
+https://drive.google.com/file/d/1vkLVggTXwvbmSzp1FmPB9_vUQPeRWETi/view?usp=share_link
+
+
+Use the below link to download selenium java 4.8.1
+
+copy  paste the link in the browser and download the file for selenium jar, extract the zip file.
+
+https://drive.google.com/file/d/1WtvpGlBOrCAuqkV83e33rKY01uZVB8hD/view?usp=share_link
